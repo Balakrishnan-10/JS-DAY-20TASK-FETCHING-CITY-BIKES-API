@@ -2,7 +2,7 @@
 
 ## CITY BIKE API LINK : https://api.citybik.es/v2/networks
 
-## Vercel Deployment Link :
+## Vercel Deployment Link : https://js-day-20-task-fetching-city-bikes-api.vercel.app
 
 ## FILES :
 * INDEX.HTML 
