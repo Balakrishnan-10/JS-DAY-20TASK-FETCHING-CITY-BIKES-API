@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Londrina+Sketch&display=swap");
+
+* {
+  font-family: "Lexend", sans-serif;
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+h1 {
+  background-color: green;
+  margin: 100px;
+}
